@@ -97,11 +97,13 @@ function bestFilmOfYear(movies, year) {
     return null;
   }
 
+ // Encontrar la película con la mayor puntuación
  const bestFilm = filmsOfYear.reduce((best, current) => {
     return (current.score > best.score) ? current : best;
   });
 
  return  [bestFilm];
+
 }
 const bestMovie = bestFilmOfYear(movies, 1999);
 

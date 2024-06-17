@@ -7,6 +7,9 @@ A company in the audiovisual sector has asked us for a web application that will
 You will be in charge of setting up the core of the application: all the logic of filtering and sorting of movies. You have 2 weeks to finish, which is how long this sprint lasts.
 
 <br>
+## Introduction Daylin
+La prueba de los test y las funciones se realizo a traves de jest, Todas las funciones han sido realizada.
+<br>
 
 ## Requirements
 
